@@ -1,4 +1,4 @@
-access_key    = "AKIARML37IA2ZW3EXZKT"
-secret_key    = "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"
+access_key    = "AKIARML37IA25VZ75IXS"
+secret_key    = "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"
 region        = "ap-south-1"
 instance_type = "t2.micro"
